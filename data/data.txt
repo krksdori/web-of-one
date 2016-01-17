@@ -1,0 +1,1568 @@
+{
+	"Dora (HUN)": {
+		"firstName": "Dora",
+		"location": "Netherlands",
+		"nationality": "Hungarian",
+		"age": 18,
+		"gender": "female",
+		"profession": "graphic design student",
+
+		"i know that": [
+			"my saviour loves me",
+			"voice",
+			"feel bro",
+			"i know nothing"
+		],
+
+		"i have": [
+			"a dream speech",
+			"nothing",
+			"nothing lyrics",
+			"no friends"
+		],
+
+		"i don't": [
+			"like it i love it",
+			"mind",
+			"dance",
+			"care"
+		],
+
+		"i am a": [
+			"man of constant sorrow",
+			"real american",
+			"rock",
+			"child of god"
+		],
+
+		"i wish i": [
+			"it would rain",
+			"was a baller",
+			"was a dixie",
+			"knew how to quit you"
+		],
+
+		"i wish to": [
+			"go to the festival",
+			"die",
+			"subscribe to you news letter",
+			"inform you"
+		],
+
+		"did i": [
+			"mention",
+			"mention lyrics",
+			"stutter",
+			"shave my legs"
+		],
+
+		"i'm": [
+			"quitting life to became a burrito",
+			"yours",
+			"bored",
+			"not the only one"
+		],
+
+		"i'm thinking of": [
+			"you all the while",
+			"you",
+			"a number",
+			"you all the while lyrics"
+		],
+
+		"my favourite food is": [
+			"pizza",
+			"in french",
+			"noodles",
+			"in japanese"
+		],
+
+		"i like listening to": [
+			"music",
+			"music in spanish",
+			"music in japanese",
+			"sad music"
+		],
+
+		"maybe i am": [
+			"amazed",
+			"the one to blame",
+			"crazy",
+			"just not enough"
+		],
+
+		"i would love to": [
+			"or too",
+			"in spanish",
+			"change the world",
+			"in french"
+		],
+
+		"what is": [
+			"em in css",
+			"my profession",
+			"love",
+			"my ip"
+		],
+
+		"why am i": [
+			"so tired",
+			"always tired",
+			"always hungry",
+			"always cold"
+		],
+
+		"you are": [
+			"not alone",
+			"my sunshine",
+			"my everything",
+			"the css to my html shirt"
+		],
+
+		"i'm scared of": [
+			"death",
+			"life",
+			"the dark",
+			"flying"
+		],
+
+		"i don't know": [
+			"why",
+			"what to do",
+			"in spanish",
+			"in french"
+		],
+
+		"i remember when we used to": [
+			"do all nighters",
+			"laugh",
+			"say",
+			"play"
+		]
+	},
+
+
+
+
+	"Asya (RUS)": {
+		"firstName": "Asya",
+		"location": "Netherlands",
+		"nationality": "Russian",
+		"age": 21,
+		"gender": "female",
+		"profession": "graphic design student",
+
+		"i know that": [
+			"my saviour loves me",
+			"feel bro",
+			"voice",
+			"i know nothing"
+		],
+
+		"i have": [
+			"a dream speech",
+			"no mouth and i must scream",
+			"nothing",
+			"no friends"
+		],
+
+		"i don't": [
+			"know",
+			"mind",
+			"dance",
+			"like"
+		],
+
+		"i am a": [
+			"man of constant sorrow",
+			"real american",
+			"child of god",
+			"classic man"
+		],
+
+		"i wish i": [
+			"it would rain",
+			"was a baller",
+			"was a dixie",
+			"knew how to quit you"
+		],
+
+		"i wish to": [
+			"kill president",
+			"die",
+			"subscribe to you news letter",
+			"inform you"
+		],
+
+		"did i": [
+			"mention",
+			"mention lyrics",
+			"it on em",
+			"do that"
+		],
+
+		"i'm": [
+			"bored",
+			"coming over",
+			"yours",
+			"tyrone"
+		],
+
+		"i'm thinking of": [
+			"you",
+			"you all the while",
+			"killing myself",
+			"you in french"
+		],
+
+		"my favourite food is": [
+			"pizza",
+			"in french",
+			"noodles",
+			"in japanese"
+		],
+
+		"i like listening to": [
+			"music",
+			"sad music",
+			"music",
+			"heartbeats"
+		],
+
+		"maybe i am": [
+			"amazed",
+			"i am",
+			"amazed lyrics",
+			"crazy"
+		],
+
+		"i would love to": [
+			"in spanish",
+			"change the world",
+			"in french",
+			"pay for you"
+		],
+
+		"what is": [
+			"my ip",
+			"halloween",
+			"lupus",
+			"scientology"
+		],
+
+		"why am i": [
+			"so tired",
+			"always tired",
+			"always hungry",
+			"so ugly"
+		],
+
+		"you are": [
+			"welcome",
+			"a pirate",
+			"my sunshine",
+			"so beautiful"
+		],
+
+		"i'm scared of": [
+			"death",
+			"toasters",
+			"myself",
+			"everything"
+		],
+
+		"i don't know": [
+			"game",
+			"what i expected",
+			"what to do",
+			"meme"
+		],
+
+		"i remember when we used to": [
+			"do all nighters",
+			"play",
+			"laugh",
+			"say"
+		]
+	},
+
+
+
+	"Jan (NLD)": {
+		"firstName": "Jan",
+		"location": "Netherlands",
+		"nationality": "Dutch",
+		"age": 18,
+		"gender": "male",
+		"profession": "graphic design student",
+
+		"i know that": [
+			"my saviour loves me",
+			"voice",
+			"feel bro",
+			"i know nothing"
+		],
+
+		"i have": [
+			"a dream speech",
+			"nothing",
+			"no friends",
+			"nothing lyrics"
+		],
+
+		"i don't": [
+			"like it i love it",
+			"mind",
+			"dance",
+			"care"
+		],
+
+		"i am a": [
+			"man of constant sorrow",
+			"real american",
+			"child of god",
+			"classic man"
+		],
+
+		"i wish i": [
+			"it would rain",
+			"was a dixie",
+			"knew how to quit you",
+			"was a baller"
+		],
+
+		"i wish to": [
+			"toni braxton",
+			"die",
+			"i wish to",
+			"go to a festival"
+		],
+
+		"did i": [
+			"mention",
+			"mention lyrics",
+			"stutter",
+			"do that"
+		],
+
+		"i'm": [
+			"yours",
+			"bored",
+			"not the only one",
+			"coming home"
+		],
+
+		"i'm thinking of": [
+			"killing myself",
+			"you lyrics",
+			"a number lamb chop lyrics",
+			"of a master plan lyrics"
+		],
+
+		"my favourite food is": [
+			"in french",
+			"pasta",
+			"rice",
+			"noodles"
+		],
+
+		"i like listening to": [
+			"music in spanish",
+			"music",
+			"french",
+			"lies when i know the truth"
+		],
+
+		"maybe i am": [
+			"amazed",
+			"i am",
+			"just not enough",
+			"the one to blame "
+		],
+
+		"i would love to": [
+			"in spanish",
+			"change the world",
+			"in french",
+			"or too"
+		],
+
+		"what is": [
+			"my ip",
+			"my ip address",
+			"gluten",
+			"lupus"
+		],
+
+		"why am i": [
+			"always tired",
+			"so tired",
+			"always hungry",
+			"so cold"
+		],
+
+		"you are": [
+			"not alone",
+			"my sunshine",
+			"a pirate",
+			"the best thing"
+		],
+
+		"i'm scared of": [
+			"of life",
+			"flying",
+			"the dark",
+			"death"
+		],
+
+		"i don't know": [
+			"why",
+			"what to do",
+			"in french",
+			"who i am"
+		],
+
+		"i remember when we used to": [
+			"do all nighters",
+			"laugh about nothing at all",
+			"laugh",
+			"sit"
+		]
+	},
+
+	"Shen (CHN)": {
+		"firstName": "Shen",
+		"location": "Netherlands",
+		"nationality": "Chinese",
+		"age": 22,
+		"gender": "male",
+		"profession": "graphic design student",
+
+		"i know that": [
+			"feel bro",
+			"my saviour loves me",
+			"voice",
+			"i know nothing"
+		],
+
+		"i have": [
+			"a dream speech",
+			"nothing",
+			"no friends",
+			"no lyrics"
+		],
+
+		"i don't": [
+			"know",
+			"care",
+			"mind",
+			"like"
+		],
+
+		"i am a": [
+			"man of constant sorrow",
+			"awolnation",
+			"gummy bear",
+			"awesome"
+		],
+
+		"i wish i": [
+			"was dead",
+			"was a dixie",
+			"knew how to quit you",
+			"was a baller"
+		],
+
+		"i wish to": [
+			"die",
+			"go to a festival",
+			"be the little girl",
+			"to subscribe to your newsletter"
+		],
+
+		"did i": [
+			"mention",
+			"mention lyrics",
+			"stutter",
+			"do that"
+		],
+
+		"i'm": [
+			"yours",
+			"bored",
+			"not the only one",
+			"coming home"
+		],
+
+		"i'm thinking of": [
+			"you",
+			"you all the while",
+			"not the only one",
+			"killing myself"
+		],
+
+		"my favourite food is": [
+			"in french",
+			"pasta",
+			"rice",
+			"noodles"
+		],
+
+		"i like listening to": [
+			"music in spanish",
+			"music",
+			"music in french",
+			"music in japanese"
+		],
+
+		"maybe i am": [
+			"amazed",
+			"the one to blame",
+			"crazy",
+			"just not enough"
+		],
+
+		"i would love to": [
+			"in spanish",
+			"change the world",
+			"in french",
+			"or too"
+		],
+
+		"what is": [
+			"my ip",
+			"my ip address",
+			"love gluten",
+			"lupus"
+		],
+
+		"why am i": [
+			"always tired",
+			"always hungry",
+			"so tired",
+			"always cold"
+		],
+
+		"you are": [
+			"my sunshine",
+			"not alone",
+			"a pirate",
+			"beautiful"
+		],
+
+		"i'm scared of": [
+			"life",
+			"death",
+			"my dad",
+			"college"
+		],
+
+		"i don't know": [
+			"why",
+			"in french",
+			"what to do",
+			"emoji"
+		],
+
+		"i remember when we used to": [
+			"do all nighters",
+			"laugh about nothing at all",
+			"laugh",
+			"sit"
+		]
+	},
+
+	"Nora (HUN)": {
+		"firstName": "Nora",
+		"location": "Netherlands",
+		"nationality": "Hungarian",
+		"age": 26,
+		"gender": "female",
+		"profession": "graphic design student",
+
+		"i know that": [
+			"feel bro",
+			"my saviour loves me",
+			"voice",
+			"i know nothing"
+		],
+
+		"i have": [
+			"a dream",
+			"nothing",
+			"no friends",
+			"a lover"
+		],
+
+		"i don't": [
+			"know",
+			"like",
+			"care",
+			"mind"
+		],
+
+		"i am a": [
+			"friend of god",
+			"man of constant sorrow",
+			"gummy bear",
+			"awolnation"
+		],
+
+		"i wish i": [
+			"could",
+			"was a punk rocker",
+			"was dead",
+			"was a dixie"
+		],
+
+		"i wish to": [
+			"die",
+			"go to a festival",
+			"apply",
+			"be the little girl"
+		],
+
+		"did i": [
+			"mention",
+			"mention lyrics",
+			"stutter",
+			"do that"
+		],
+
+		"i'm": [
+			"yours",
+			"bored",
+			"not the only one",
+			"coming home"
+		],
+
+		"i'm thinking of": [
+			"you",
+			"you all the while",
+			"a number",
+			"killing myself"
+		],
+
+		"my favourite food is": [
+			"in french",
+			"pasta",
+			"rice",
+			"noodles"
+		],
+
+		"i like listening to": [
+			"music in spanish",
+			"music in french",
+			"music in japanese",
+			"lies when i know the truth"
+		],
+
+		"maybe i am": [
+			"amazed",
+			"just not enough",
+			"crazy",
+			"the one to blame"
+		],
+
+		"i would love to": [
+			"in spanish",
+			"change the world",
+			"in french",
+			"or too"
+		],
+
+		"what is": [
+			"my ip",
+			"my ip address",
+			"love",
+			"gluten"
+		],
+
+		"why am i": [
+			"always tired",
+			"so tired",
+			"always hungry",
+			"always cold"
+		],
+
+		"you are": [
+			"my sunshine",
+			"not alone",
+			"a pirate",
+			"so beautiful"
+		],
+
+		"i'm scared of": [
+			"my grandma dying",
+			"dying",
+			"flying",
+			"answering the phone"
+		],
+
+		"i don't know": [
+			"what to do",
+			"why",
+			"in french",
+			"how she does it"
+		],
+
+		"i remember when we used to": [
+			"take drugs",
+			"sing",
+			"talk for hours",
+			"dance"
+		]
+	},
+
+	"Fati (HUN)": {
+		"firstName": "Fati",
+		"location": "Hungary",
+		"nationality": "Hungarian",
+		"age": 20,
+		"gender": "female",
+		"profession": "currently on a gap year",
+
+		"i know that": [
+			"feel bro",
+			"girl acc",
+			"feel sis",
+			"girl free key"
+		],
+
+		"i have": [
+			"nothing",
+			"a dream",
+			"a dream lyrics",
+			"a dream abba"
+		],
+
+		"i don't": [
+			"like it i love it",
+			"care",
+			"know",
+			"care magyarul"
+		],
+
+		"i am a": [
+			"bread",
+			"man of constant sorrow",
+			"passenger",
+			"barbie girl"
+		],
+
+		"i wish i": [
+			"had an angel",
+			"knew",
+			"was a punk rocker",
+			"was a little bit taller"
+		],
+
+		"i wish to": [
+			"enter my vault",
+			"you",
+			"work",
+			"draw your attention"
+		],
+
+		"did i": [
+			"ever tell you the definition",
+			"drink too much",
+			"build this ship to wreck",
+			"dream too much"
+		],
+
+		"i'm": [
+			"yours",
+			"an albatraoz",
+			"not the only one",
+			"so excited"
+		],
+
+		"i'm thinking of": [
+			"you all the while",
+			"you meaning",
+			"you and the things you do to me",
+			"you"
+		],
+
+		"my favourite food is": [
+			"pizza",
+			"yellow",
+			"my favourite food is",
+			"noodles"
+		],
+
+		"i like listening to": [
+			"music",
+			"music or i like to listen to music",
+			"music because",
+			"heartbeats"
+		],
+
+		"maybe i am": [
+			"crazy",
+			"amazed",
+			"mistaken",
+			"a leo lyrics"
+		],
+
+		"i would love to": [
+			"change the world",
+			"jelentése",
+			"meaning",
+			"show you around"
+		],
+
+		"what is": [
+			"my ip",
+			"love",
+			"the answer to life",
+			"netflix"
+		],
+
+		"why am i": [
+			"single",
+			"the one lyrics",
+			"ugly",
+			"alone"
+		],
+
+		"you are": [
+			"the worst",
+			"welcome",
+			"beautiful",
+			"a pirate"
+		],
+
+		"i'm scared of": [
+			"love",
+			"a relationship",
+			"the future",
+			"walking out this room"
+		],
+
+		"i don't know": [
+			"how to love him",
+			"meme",
+			"how she does it",
+			"what i am doing"
+		],
+
+		"i remember when we used to": [
+			"sit in the government yard",
+			"sit",
+			"say",
+			"sit in the government yard in brooklyn"
+		]
+	},
+
+	"Manon (CHE)": {
+		"firstName": "Manon",
+		"location": "Netherlands",
+		"nationality": "Swiss",
+		"age": 20,
+		"gender": "female",
+		"profession": "graphic design student",
+
+		"i know that": [
+			"i know nothing",
+			"my redeemer liveth",
+			"voice",
+			"i know nothing meaning"
+		],
+
+		"i have": [
+			"a dream speech",
+			"nothing",
+			"nothing lyrics",
+			"a dream abba"
+		],
+
+		"i don't": [
+			"know",
+			"mind",
+			"care",
+			"like"
+		],
+
+		"i am a": [
+			"man of constant sorrow",
+			"awolnation",
+			"awesome",
+			"child of god"
+		],
+
+		"i wish i": [
+			"it would rain",
+			"i was a little bit taller",
+			"was in dixie",
+			"was a punk rocker"
+		],
+
+		"i wish to": [
+			"enter my vault",
+			"you",
+			"work",
+			"draw your attention"
+		],
+
+		"did i": [
+			"let you know lyrics",
+			"mention",
+			"mention lyrics",
+			"it on em"
+		],
+
+		"i'm": [
+			"yours",
+			"bored",
+			"not the only one",
+			"coming home"
+		],
+
+		"i'm thinking of": [
+			"you all the while",
+			"you",
+			"a number",
+			"killing myself"
+		],
+
+		"my favourite food is": [
+			"in french",
+			"yellow",
+			"pasta",
+			"rice"
+		],
+
+		"i like listening to": [
+			"music in spanish",
+			"music",
+			"music in french",
+			"music in japanese"
+		],
+
+		"maybe i am": [
+			"amazed",
+			"just not enough",
+			"worth it",
+			"maybe i am"
+		],
+
+		"i would love to": [
+			"in spanish ",
+			"change the world",
+			"in french",
+			"i would love to"
+		],
+
+		"what is": [
+			"currently censored in the news",
+			"ul in html ",
+			"my ip",
+			"my ip address"
+		],
+
+		"why am i": [
+			"always tired",
+			"so tired",
+			"always hungry",
+			"always cold"
+		],
+
+		"you are": [
+			"not alone",
+			"my sunshine",
+			"a pirate",
+			"so beautiful"
+		],
+
+		"i'm scared of": [
+			"death",
+			"life",
+			"the dark",
+			"flying"
+		],
+
+		"i don't know": [
+			"what to do",
+			"in spanish",
+			"in french",
+			"i do not know"
+		],
+
+		"i remember when we used to": [
+			"do all nighters",
+			"play shoot em up lyrics",
+			"sit",
+			"chill back them"
+		]
+	},
+
+	"Daniel (MEX)": {
+		"firstName": "Daniel",
+		"location": "Netherlands",
+		"nationality": "Mexican",
+		"age": 24,
+		"gender": "male",
+		"profession": "graphic design student",
+
+		"i know that": [
+			"my saviour loves me ",
+			"i know nothing",
+			"voice",
+			"redeemer lives"
+		],
+
+		"i have": [
+			"a dream speech",
+			"nothing",
+			"nothing lyrics",
+			"no mouth and i must scream"
+		],
+
+		"i don't": [
+			"know",
+			"like it i love it",
+			"mind",
+			"dance"
+		],
+
+		"i am a": [
+			"man of constant sorrow",
+			"child of god",
+			"friend of god",
+			"rock"
+		],
+
+		"i wish i": [
+			"it would rain",
+			"i was a little bit taller",
+			"was in dixie",
+			"was a punk rocker"
+		],
+
+		"i wish to": [
+			"go to the festival",
+			"die",
+			"subscribe to your news letter",
+			"inform you"
+		],
+
+		"did i": [
+			"mention",
+			"mention lyrics",
+			"did it on em",
+			"did in spanish"
+		],
+
+		"i'm": [
+			"yours",
+			"not the only one",
+			"bored",
+			"coming home"
+		],
+
+		"i'm thinking of": [
+			"you all the while",
+			"you",
+			"a number",
+			"you in french"
+		],
+
+		"my favourite food is": [
+			"in french",
+			"is pizza in french",
+			"pasta",
+			"rice"
+		],
+
+		"i like listening to": [
+			"music in spanish",
+			"music",
+			"music in french",
+			"music in japanese"
+		],
+
+		"maybe i am": [
+			"amazed",
+			"just not enough",
+			"worth it",
+			"the one to blame"
+		],
+
+		"i would love to": [
+			"in spanish ",
+			"change the world",
+			"in french",
+			"i would love to"
+		],
+
+		"what is": [
+			"still birth",
+			"love",
+			"my ip",
+			"my ip address"
+		],
+
+		"why am i": [
+			"so tired",
+			"always tired",
+			"always hungry",
+			"always cold"
+		],
+
+		"you are": [
+			"not alone",
+			"my sunshine",
+			"a pirate",
+			"so beautiful"
+		],
+
+		"i'm scared of": [
+			"death",
+			"life",
+			"the dark",
+			"flying"
+		],
+
+		"i don't know": [
+			"why",
+			"what to do",
+			"in spanish",
+			"in french"
+		],
+
+		"i remember when we used to": [
+			"do all nighters",
+			"laugh",
+			"say",
+			"play"
+		]
+	},
+
+	"Katya (RUS)": {
+		"firstName": "Katya",
+		"location": "Russia",
+		"nationality": "Russian",
+		"age": 19,
+		"gender": "female",
+		"profession": "economics student",
+
+		"i know that": [
+			"feel bro",
+			"i know nothing",
+			"feeling",
+			"voice"
+		],
+
+		"i have": [
+			"nothing",
+			"a dream",
+			"a lover ep 21",
+			"got"
+		],
+
+		"i don't": [
+			"want to miss a thing",
+			"know",
+			"care",
+			"know how to love him"
+		],
+
+		"i am a": [
+			"man of constant sorrow",
+			"awesome",
+			"passenger",
+			"hero"
+		],
+
+		"i wish i": [
+			"knew",
+			"had an angel",
+			"could",
+			"was special"
+		],
+
+		"i wish to": [
+			"kill the president",
+			"confess",
+			"be like a cool kid",
+			"know"
+		],
+
+		"did i": [
+			"mention",
+			"mention перевод",
+			"let you know",
+			"ever love you"
+		],
+
+		"i'm": [
+			"not the only one",
+			"in love with the coco",
+			"a man",
+			"so sorry"
+		],
+
+		"i'm thinking of": [
+			"starting music lessons",
+			"you",
+			"you перевод",
+			"getting a summer job"
+		],
+
+		"my favourite food is": [
+			"pizza",
+			"bananas",
+			"yellow",
+			"chocolate"
+		],
+
+		"i like listening to": [
+			"music",
+			"classics in pop and rock",
+			"classical music",
+			"pop music"
+		],
+
+		"maybe i am": [
+			"crazy",
+			"wrong",
+			"worth it",
+			"just not enough"
+		],
+
+		"i would love to": [
+			"перевод",
+			"change the world",
+			"change the world перевод",
+			"change the world cachet"
+		],
+
+		"what is": [
+			"love",
+			"my ip",
+			"your name",
+			"my ip address"
+		],
+
+		"why am i": [
+			"the one",
+			"so self important",
+			"never lucky",
+			"so sad"
+		],
+
+		"you are": [
+			"beautiful",
+			"so beautiful",
+			"not alone",
+			"empty"
+		],
+
+		"i'm scared of": [
+			"death",
+			"life",
+			"the dark",
+			"flying"
+		],
+
+		"i don't know": [
+			"how to love him",
+			"what you heard about me",
+			"what i can save you from",
+			"перевод"
+		],
+
+		"i remember when we used to": [
+			"sit",
+			"sing",
+			"say",
+			"play"
+		]
+	},
+		"Jonathan (KOR)": {
+		"firstName": "Jonathan",
+		"location": "Netherlands",
+		"nationality": "Korean",
+		"age": 22,
+		"gender": "male",
+		"profession": "graphic design student",
+	
+		"i know that":[
+		"my saviour loves me",
+		"voice",
+		"feel bro",
+		"feel"
+		],
+
+		"i have":[
+		"a dream",
+		"nothing",
+		"no friends",
+		"nothing lyrics"
+		],
+
+		"i don't":[
+		"know",
+		"like it i love it",
+		"know what to do",
+		"care"
+		],
+
+		"i am a":[
+		"child of god",
+		"man of constant sorrow",
+		"bellend",
+		"hero"
+		],
+
+		"i wish i":[
+		"was a little bit taller",
+		"it would rain",
+		"was dead",
+		"could"
+		],
+
+		"i wish to":[
+		"die",
+		"go to the festival",
+		"subscribe to your newsletter",
+		"be"
+		],
+
+		"did i":[
+		"mention",
+		"mention lyrics",
+		"stutter",
+		"mention i love you"
+		],
+
+		"i'm":[
+		"bored",
+		"yours",
+		"not the only one",
+		"feeling lucky"
+		],
+
+		"i'm thinking of":[
+		"you",
+		"you all the while",
+		"a number",
+		"you quotes"
+		],
+
+		"my favourite food is":[
+		"in french",
+		"noodles",
+		"pasta",
+		"pizza in french"
+		],
+
+		"i like listening to":[
+		"music",
+		"music in spanish",
+		"music in french",
+		"sad music"
+		],
+
+		"maybe i am":[
+		"amazed",
+		"wrong",
+		"crazy",
+		"the one to blame"
+		],
+
+		"i would love to":[
+		"change the world",
+		"in spanish",
+		"or too",
+		"in french"
+		],
+
+		"what is":[
+		"my ip",
+		"my ip address",
+		"lupus",
+		"love"
+		],
+
+		"why am i":[
+		"so tired",
+		"always tired",
+		"always hungry",
+		"so ugly"
+		],
+
+		"you are":[
+		"beautiful",
+		"welcome",
+		"awesome",
+		"my sunshine"
+		],
+
+		"i'm scared of":[
+		"death",
+		"the dark",
+		"life",
+		"myself"
+		],
+
+		"i don't know":[
+		"what to do",
+		"meme",
+		"how she does it",
+		"who i am"
+		],
+
+		"i remember when we used to":[
+		"do all nighters",
+		"say",
+		"play",
+		"laugh"
+		]	
+	},
+	"Celine (DEU)": {
+		"firstName": "Celine",
+		"location": "Netherlands",
+		"nationality": "German",
+		"age": 20,
+		"gender": "felmale",
+		"profession": "graphic design student",
+	
+		"i know that":[
+		"my saviour loves me",
+		"voice",
+		"feel bro",
+		"my redeemer lives"
+		],
+
+		"i have":[
+		"a dream speech",
+		"got",
+		"no friends",
+		"nothing"
+		],
+
+		"i don't":[
+		"know",
+		"care",
+		"mind",
+		"know what to do"
+		],
+
+		"i am a":[
+		"alive",
+		"a child of god",
+		"man of constant sorrow",
+		"awesome"
+		],
+
+		"i wish i":[
+		"was a little bit taller",
+		"was dead",
+		"could",
+		"was a punk rocker"
+		],
+
+		"i wish to":[
+		"die",
+		"go to the festival",
+		"subscribe to your newsletter",
+		"be"
+		],
+
+		"did i":[
+		"mention",
+		"mention lyrics",
+		"stutter",
+		"mention i love you"
+		],
+
+		"i'm":[
+		"a celebrity",
+		"bored",
+		"yours",
+		"not the only one"
+		],
+
+		"i'm thinking of":[
+		"you",
+		"you all the while",
+		"you number",
+		"you quotes"
+		],
+
+		"my favourite food is":[
+		"in french",
+		"noodles",
+		"pasta",
+		"pizza in french"
+		],
+
+		"i like listening to":[
+		"music",
+		"music in spanish",
+		"music in french",
+		"sad music"
+		],
+
+		"maybe i am":[
+		"amazed",
+		"wrong",
+		"crazy",
+		"the one to blame"
+		],
+
+		"i would love to":[
+		"change the world",
+		"in spanish",
+		"or too",
+		"in french"
+		],
+
+		"what is":[
+		"love",
+		"my ip",
+		"ip address",
+		"lupus"
+		],
+
+		"why am i":[
+		"so tired",
+		"always tired",
+		"always hungry",
+		"so ugly"
+		],
+
+		"you are":[
+		"not alone",
+		"i am",
+		"stupid",
+		"beautiful"
+		],
+
+		"i'm scared of":[
+		"death",
+		"the dark",
+		"life",
+		"myself"
+		],
+
+		"i don't know":[
+		"what to do",
+		"what came over me",
+		"why",
+		"what i can save you from"
+		],
+
+		"i remember when we used to":[
+		"do all nighters",
+		"to say",
+		"play",
+		"laugh"
+		]	
+	}
+
+
+}
